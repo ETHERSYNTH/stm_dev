@@ -4,7 +4,7 @@
 *.hex
 *.list
 *.srec
-*.a
+# *.a
 *.elf
 lib/*.ld
 # (except this one!)
