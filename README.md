@@ -76,5 +76,9 @@ Linux команды
 102) git add
 103) git commit
 104) git push
+105) cd libopencm3 # Переходим в каталог libopencm3
+106) git checkout f2a9980638a0f52368a0c76fe12ef88e9ecb07c5 # Переключаемся на коммит от 26 мая 2019 года (последний из списка)
+107) https://sourceforge.net/projects/libopencm3/lists/libopencm3-commits
+
 
 
