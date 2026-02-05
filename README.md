@@ -4,6 +4,11 @@ Ubuntu 22.04.4 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)
 
 echo 'export PATH="/home/study/arm_eabi/arm-gnu-toolchain-12.2.mpacbti-rel1-x86_64-arm-none-eabi/bin:$PATH"' >> ~/.bashrc
 
+Пакет Bash. 
+
+Широко известный командный интерпритатор; перед тем, как выполнить командную строку, выполняет в ней много различных замен и подстановок, что
+делает этот интерпритатор мощным инструментальным средством. sh - символическая ссылка на программу bash.
+
 Linux команды
 
 1) ls 		просмотр содержимого папки
@@ -79,6 +84,7 @@ Linux команды
 105) cd libopencm3 # Переходим в каталог libopencm3
 106) git checkout f2a9980638a0f52368a0c76fe12ef88e9ecb07c5 # Переключаемся на коммит от 26 мая 2019 года (последний из списка)
 107) https://sourceforge.net/projects/libopencm3/lists/libopencm3-commits
+
 
 
 
